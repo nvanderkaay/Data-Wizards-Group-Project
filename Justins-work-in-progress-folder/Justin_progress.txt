@@ -11,3 +11,7 @@ Did some more changes to my data workspace and added some more things on there
 4/7/2025
 
 Created a cheap_car branch 
+
+4/10/2025
+
+Started the jupyter notebook file and trying to do my question, started a little bit off it at first but I will continue to work on it in the next weeks
