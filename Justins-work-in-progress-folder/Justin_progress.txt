@@ -27,3 +27,7 @@ Some more progress being completed, thinking of opening my contribution to the q
 4/16/2025
 
 I think im almost done with my question so when im ready I can ask for feedback from my teammates and see if everything is good on their end. Then I want to start working on question 6 
+
+4/17/2025
+
+Worked on the question some more, I think im almost done but theres still some code im not sure about. Some numbers dont feel right but ill have to look into it more but I made some progress today. Just got to clean it up and then it should be done hopefully
