@@ -43,3 +43,7 @@ Did some work on question 6 and just getting some data fixed and looking at what
 4/24/2025
 
 Looking through question and trying to make some more observations of the data and see some more comparisons might come back later 
+
+4/25/2025
+
+Fixed a small mistake with the data but it wasn't a big thing so it was fine. Added a little bit more to the data 
