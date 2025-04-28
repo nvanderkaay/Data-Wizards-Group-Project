@@ -47,3 +47,7 @@ Looking through question and trying to make some more observations of the data a
 4/25/2025
 
 Fixed a small mistake with the data but it wasn't a big thing so it was fine. Added a little bit more to the data 
+
+4/27/2025
+
+Went back to question 5 and decided to add a histogram for the final touches to the question and I think that should be good but we will see if its good enough
