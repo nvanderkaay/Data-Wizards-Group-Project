@@ -51,3 +51,7 @@ Fixed a small mistake with the data but it wasn't a big thing so it was fine. Ad
 4/27/2025
 
 Went back to question 5 and decided to add a histogram for the final touches to the question and I think that should be good but we will see if its good enough
+
+5/15/2025
+
+Trying to resolve git conflict
