@@ -1,0 +1,57 @@
+Progress for Justin Shay for group project. test  
+
+3/15/2025
+
+added my folder to my branch 
+
+3/20/2025
+
+Did some more changes to my data workspace and added some more things on there
+
+4/7/2025
+
+Created a cheap_car branch 
+
+4/10/2025
+
+Started the jupyter notebook file and trying to do my question, started a little bit off it at first but I will continue to work on it in the next weeks
+
+4/12/2025
+
+Doing a little bit more work for the question and getting some progress done. 
+
+4/13/2025
+
+Some more progress being completed, thinking of opening my contribution to the question 6 file and will do it soon this week and work on it
+
+4/16/2025
+
+I think im almost done with my question so when im ready I can ask for feedback from my teammates and see if everything is good on their end. Then I want to start working on question 6 
+
+4/17/2025
+
+Worked on the question some more, I think im almost done but theres still some code im not sure about. Some numbers dont feel right but ill have to look into it more but I made some progress today. Just got to clean it up and then it should be done hopefully
+
+4/18/2025
+
+Did some more work on the question. Just got to clean it up and im done?
+
+4/23/2025
+
+Did some work on question 6 and just getting some data fixed and looking at what I could do for the question. I will check back in with the team about this question because im not sure who else is working on it or is it a group question. 
+
+4/24/2025
+
+Looking through question and trying to make some more observations of the data and see some more comparisons might come back later 
+
+4/25/2025
+
+Fixed a small mistake with the data but it wasn't a big thing so it was fine. Added a little bit more to the data 
+
+4/27/2025
+
+Went back to question 5 and decided to add a histogram for the final touches to the question and I think that should be good but we will see if its good enough
+
+5/15/2025
+
+Trying to resolve git conflict
